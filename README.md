@@ -1,3 +1,8 @@
+# Audiogum changes
+
+### 0.10.5-1
+* Add support for proxy protocol (useful for WebSocket via ELB) [PR#31](https://github.com/sunng87/ring-jetty9-adapter/pull/31) 
+
 # ring-jetty9-adapter (rj9a)
 
 Ring adapter for Jetty 9 with HTTP2 and WebSocket support.
@@ -14,7 +19,7 @@ additional features like http/2 and websocket.
 
 ### Leiningen
 
-[![latest version on clojars](http://clojars.org/info.sunng/ring-jetty9-adapter/latest-version.svg)](https://clojars.org/info.sunng/ring-jetty9-adapter)
+[![latest version on clojars](http://clojars.org/audiogum/ring-jetty9-adapter/latest-version.svg)](https://clojars.org/info.sunng/ring-jetty9-adapter)
 
 ### Code
 
